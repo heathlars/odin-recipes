@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to practice the skills learned for html. These skills include: creating a page, linking a page, adding an image, creating headings, creating paragraphs, and adding an ordered and unordered list. I also practiced committing to github as I progressed through the project. 
